@@ -1,0 +1,13 @@
+{
+  "name": "swapi-next",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "next": "latest"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
