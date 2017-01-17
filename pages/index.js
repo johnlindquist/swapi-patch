@@ -13,7 +13,6 @@ export default class extends Component {
     }
 
     render() {
-        console.log('render')
         return <div>
             {this.props.name}
             <button onClick={this.update}>Update</button>
